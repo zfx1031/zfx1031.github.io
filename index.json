@@ -3,16 +3,16 @@
 	"msg": "success",
 	"data": {
 		"list": [{
-				"name": "百度",
-				"url": "https://baidu.com"
+				"name": "bd",
+				"url": "https://baidu.com/s?wd="
 			},
 			{
-				"name": "百度",
-				"url": "https://baidu.com"
+				"name": "gg",
+				"url": "https://google.com?wd="
 			},
 			{
-				"name": "百度",
-				"url": "https://baidu.com"
+				"name": "so",
+				"url": "https://so.com/s?q="
 			}
 		]
 	}
